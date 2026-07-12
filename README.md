@@ -147,9 +147,11 @@ Prioritize intervention strategies for departments with consistently high no-sho
 
 Monitor appointments scheduled more than 30 days in advance and consider follow-up reminder workflows.
 
-**Dashboard Preview**
+## Dashboard Preview
 
-![Dashboard Preview](images/dashboard.png)
+### Executive Dashboard
+
+![Dashboard Overview](dashboard/dashboard-overview.png)
 
 **Repository Structure**
 
